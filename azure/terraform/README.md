@@ -8,6 +8,7 @@ This section is dedicated to describe all the steps to install and configure the
 ### Create the Azure account 
 First step on setup is to create a account on the providers site:
 1. Access https://azure.microsoft.com/pt-br/
+2. Click on create > free account
 To install Terraform, follow these steps:
 * Access https://www.terraform.io/downloads.html;
 * Download the respective .zip file according to your Operating System;
