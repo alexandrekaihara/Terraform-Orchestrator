@@ -2,7 +2,7 @@
 
 Here contains all the descriptions to setup, use and execute the experiment described on the paper
 
-## Setup
+## 1. Setup
 This section is dedicated to describe all the steps to install and configure the machine to execute the terraform script
 
 ### Create the Azure account 
@@ -26,6 +26,6 @@ To use the terraform Azure provider, it must be installed the Azure Cli, the fol
 
 It will be necessary to allow terrform use your account to execute the terraform scripts
 
-## Execution 
-## Interface Description
-## Difficulties
+## 2. Execution 
+## 3. Interface Description
+## 4. Difficulties
