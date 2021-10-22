@@ -23,8 +23,11 @@ To install Terraform, follow these steps:
 To use the terraform Azure provider, it must be installed the Azure Cli, the following steps decribe the installation process:
 1. Acess https://aka.ms/installazurecliwindows
 2. Execute the .msi file and install
+3. Open a cmd terminal and execute
+> az login
 
-It will be necessary to allow terrform use your account to execute the terraform scripts
+Then a popup browser will open and login on your Azure account.
+It will be necessary to allow terrform use your account to execute the terraform scripts.
 
 ## 2. Execution 
 ## 3. Interface Description
