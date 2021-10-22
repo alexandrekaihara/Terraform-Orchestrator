@@ -4,7 +4,9 @@ Here contains all the descriptions to install, use and execute the experiment de
 
 ## Installation
 To install Terraform, follow these steps:
-* Access https://www.terraform.io/downloads.html
-* Download the respective .zip file according to your Operating System
-* Unzip it
-* Add it to the environment variables
+* Access https://www.terraform.io/downloads.html;
+* Download the respective .zip file according to your Operating System;
+* Unzip it;
+* Add it to the environment variables;
+
+> Create the terraform file as 
