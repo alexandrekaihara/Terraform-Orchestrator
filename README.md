@@ -32,7 +32,9 @@ It will be necessary to allow terraform use your account to execute the .tf scri
 ## 2. Execution 
 To execute the script, execute on terminal on the directory where is located the config.tf script:
 > terraform init
+
 > terraform plan
+
 > terraform apply
 
 To destroy the virtual machine, including all the other resources created, use:
