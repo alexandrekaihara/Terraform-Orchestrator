@@ -30,7 +30,10 @@ Then a popup browser will open and login on your Azure account.
 It will be necessary to allow terraform use your account to execute the .tf scripts.
 
 ## 2. Execution 
-## 3. Interface Description
-## 4. Difficulties
-Above, will be listed all dificulties found on using Terraform to perform the experiment.
-1. Despite all documentation available, there is a need to learn the syntax, which has not shown to be so intuitive.
+To execute the script, execute on terminal on the directory where is located the config.tf script:
+> terraform init
+> terraform plan
+> terraform apply
+
+To destroy the virtual machine, including all the other resources created, use:
+> terraform destroy
